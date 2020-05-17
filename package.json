@@ -1,0 +1,16 @@
+{
+  "name": "bab",
+  "version": "1.0.0",
+  "description": "bittrex trading bot",
+  "main": "app.js",
+  "dependencies": {
+    "node-bittrex-api": "^0.8.1",
+    "node-bittrex-api": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sqro2",
+  "license": "ISC"
+}
